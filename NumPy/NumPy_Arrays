@@ -1,0 +1,5 @@
+import numpy as np
+#Creating NumPy Arrays
+my_list = [1,2,3]
+print(my_list)
+np.array(my_list)
