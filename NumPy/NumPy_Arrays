@@ -3,3 +3,4 @@ import numpy as np
 my_list = [1,2,3]
 print(my_list)
 np.array(my_list)
+
