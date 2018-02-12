@@ -36,7 +36,6 @@ ranarr
 arr.reshape(5,5)
 ranarr
 ranarr.max()
-
 ranarr.argmax()
 ranarr.min()
 
